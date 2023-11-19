@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Experimental.Rendering.Universal;
 
 [RequireComponent(typeof(SpriteRenderer))]
-public class TileableShadowCaster : MonoBehaviour
+public class TileableShadowCaster2D : MonoBehaviour
 {
     SpriteRenderer renderer;
     GameObject shadowHackObject;
